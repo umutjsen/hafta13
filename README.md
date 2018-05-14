@@ -1,1 +1,1 @@
-# hafta13
+Çoklu Ortam Tasarımı ve Uygulamaları dersi için oluşturduğum repository
